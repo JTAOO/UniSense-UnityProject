@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "dualsenseChanger.sln"
+    "dotnet.defaultSolution": "UniSense-UnityProject.sln"
 }
